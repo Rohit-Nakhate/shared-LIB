@@ -1,2 +1,1 @@
-# shared-LIB
-# shared-LIB
+# shared-LIBRARY
