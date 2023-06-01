@@ -1,3 +1,3 @@
-def call(MAP config = [:]) {
+def call(Map config = [:]) {
   echo "HI I AM ${config.name}"
 }
