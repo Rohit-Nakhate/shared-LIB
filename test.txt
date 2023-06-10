@@ -2,4 +2,7 @@ GENKINS PULL REQUEST TRIGGER EVENT!!!!
 GENKINS PULL REQUEST TRIGGER EVENT!!!!
 GENKINS PULL REQUEST TRIGGER EVENT!!!!
 GENKINS PULL REQUEST TRIGGER EVENT!!!!
-GENKINS PULL REQUEST TRIGGER EVENT!!!!
+
+
+
+Jenkins is an open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous deliver…
